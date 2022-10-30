@@ -1499,7 +1499,9 @@ ul.countdown li p {
 	font-weight:400;
 }
 
-
+.col-md-3{
+	padding-bottom: 10px;
+}
 
 /* #Footer
 ================================================== */
